@@ -12,4 +12,4 @@ Tại thư mục của project, chạy lệnh:
 Trường hợp cài package ở frontend không được thì hãy thử npm i -f.
 
 ### Chạy project
-Chuyển qua thư mục của project và chạy lệnh `mvn spring-boot:run` để khởi động server ở port 8080, chạy lệnh `npm run dev` để khởi động client ở port 3000
+Chuyển qua thư mục của project và chạy lệnh `mvn spring-boot:run` để khởi động server ở port 8080, chạy lệnh `npm start` ở folder frontend để khởi động client ở port 3000
